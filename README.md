@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simworld2020
-- 👀 I’m interested in learning git, github and flightgear coding.
+- 👀 I’m interested in learning git, github and Flightgear coding.
 - 🌱 I’m currently learning basic animations, nasal, xml.
-- 💞️ I’m looking to collaborate on the A320 and DHC6
+- 💞️ I’m looking to collaborate on FG dev projects as able.
 - 📫 How to reach me: forum.flightgear.org
 
 <!---
